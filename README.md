@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Emad Alhani 👋
 
 🚀 DevOps Engineer passionate about building scalable infrastructure, automating deployments, and improving software delivery using modern DevOps practices.
 
