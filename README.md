@@ -102,7 +102,7 @@ Implemented a full observability stack using Prometheus, Grafana, and EFK for me
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/emad
+
 - GitHub: https://github.com/emad6391 
 - Email: emadnorie@gmail.com  
 
