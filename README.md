@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Claude Ed Ani
+# 👋 Hi, I'm Emad Alhani
 
 🚀 DevOps Engineer passionate about building scalable cloud infrastructure, automating deployments, and improving software delivery through modern DevOps practices.
 
