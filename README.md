@@ -2,11 +2,11 @@
 
 🚀 DevOps Engineer passionate about building scalable cloud infrastructure, automating deployments, and improving software delivery through modern DevOps practices.
 
-I specialise in **Cloud Infrastructure, CI/CD Automation, Container Orchestration, and Infrastructure as Code (IaC)**.
+I specialise in **Cloud Infrastructure, CI/CD Automation, Container Orchestration, and Infrastructure as Code (IaC)** across cloud and multi-cloud environments.
 
 ---
 
-## 🏅 Certifications & Tools
+## 🏅 Certifications & Core Tools
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform&logoColor=white)
@@ -16,7 +16,7 @@ I specialise in **Cloud Infrastructure, CI/CD Automation, Container Orchestratio
 ![Jenkins](https://img.shields.io/badge/Jenkins-Automation-D24939?logo=jenkins&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-Visualisation-F46800?logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK-Logging-005571?logo=elastic&logoColor=white)
+![EFK Stack](https://img.shields.io/badge/EFK-Logging-005571?logo=elastic&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-Streaming-231F20?logo=apachekafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-Cache-DC382D?logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb&logoColor=white)
@@ -45,7 +45,7 @@ I specialise in **Cloud Infrastructure, CI/CD Automation, Container Orchestratio
 - Docker  
 - Kubernetes  
 
-### ⚙️ CI/CD
+### ⚙️ CI/CD & Automation
 - GitHub Actions  
 - Jenkins  
 - GitLab CI/CD  
@@ -53,28 +53,32 @@ I specialise in **Cloud Infrastructure, CI/CD Automation, Container Orchestratio
 ### 📊 Monitoring & Observability
 - Prometheus  
 - Grafana  
-- ELK Stack  
+- EFK Stack (Elasticsearch, Fluentd, Kibana)  
 
 ### 🗄 Databases & Messaging
 - MongoDB, MySQL, PostgreSQL, Microsoft SQL Server (MSSQL)  
 - Redis (Caching & Performance Optimisation)  
-- Apache Kafka (Event Streaming & Real-Time Data Processing)  
+- Apache Kafka (Event Streaming & Real-Time Processing)  
+
+### 🔄 Version Control
+- Git  
+- GitHub  
 
 ---
 
 ## 📂 Featured DevOps Projects
 
 ### 🔹 Terraform AWS Infrastructure
-Provisioned scalable AWS infrastructure using Terraform including VPC, EC2, IAM, and networking.
+Provisioned scalable AWS infrastructure using Terraform, including VPC, EC2, IAM, and networking components with reusable modules.
 
 ### 🔹 Kubernetes Deployment
-Deployed containerised applications with auto-scaling, rolling updates, and service exposure.
+Deployed containerised applications on Kubernetes with auto-scaling, rolling updates, and service exposure.
 
-### 🔹 CI/CD Pipeline
-Automated build, test, and deployment using GitHub Actions and Docker.
+### 🔹 CI/CD Pipeline Automation
+Built automated pipelines using GitHub Actions and Docker to streamline build, test, and deployment workflows.
 
 ### 🔹 Monitoring & Observability Stack
-Implemented monitoring and logging using Prometheus, Grafana, and ELK Stack.
+Implemented a full observability stack using Prometheus, Grafana, and EFK for metrics, logging, and system visibility.
 
 ---
 
