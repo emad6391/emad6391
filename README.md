@@ -1,61 +1,80 @@
-# Hi, I'm Emad Alhani 👋
+# 👋 Hi, I'm Claude Ed Ani
 
-🚀 DevOps Engineer passionate about building scalable infrastructure, automating deployments, and improving software delivery using modern DevOps practices.
+🚀 DevOps Engineer passionate about building scalable cloud infrastructure, automating deployments, and improving software delivery through modern DevOps practices.
 
-I specialize in **cloud infrastructure, CI/CD automation, container orchestration, and Infrastructure as Code**.
+I specialise in **Cloud Infrastructure, CI/CD Automation, Container Orchestration, and Infrastructure as Code (IaC)**.
+
+---
+
+## 🏅 Certifications & Tools
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-Automation-D24939?logo=jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-Visualisation-F46800?logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK-Logging-005571?logo=elastic&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-Streaming-231F20?logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Cache-DC382D?logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-Database-CC2927?logo=microsoftsqlserver&logoColor=white)
 
 ---
 
 ## 🏆 Certifications
 
-- HashiCorp Certified: Terraform Associate (004)
-- AWS Certified DevOps Engineer – Professional
-- Certified Kubernetes Administrator (CKA)
-- AWS Certified Developer – Associate
+- HashiCorp Certified: Terraform Associate (004)  
+- AWS Certified DevOps Engineer – Professional  
+- Certified Kubernetes Administrator (CKA)  
+- AWS Certified Developer – Associate  
 
 ---
 
 ## 🛠 DevOps Tools & Technologies
 
-**Cloud Platforms**
-- AWS
+### ☁️ Cloud Platforms
+- AWS  
 
-**Infrastructure as Code**
-- Terraform
+### 🧱 Infrastructure as Code
+- Terraform  
 
-**Containers & Orchestration**
-- Docker
-- Kubernetes
+### 📦 Containers & Orchestration
+- Docker  
+- Kubernetes  
 
-**CI/CD**
-- GitHub Actions
-- Jenkins
-- GitLab CI/CD
+### ⚙️ CI/CD
+- GitHub Actions  
+- Jenkins  
+- GitLab CI/CD  
 
-**Monitoring & Logging**
-- Prometheus
-- Grafana
-- ELK Stack
+### 📊 Monitoring & Observability
+- Prometheus  
+- Grafana  
+- ELK Stack  
 
-**Version Control**
-- Git
-- GitHub
+### 🗄 Databases & Messaging
+- MongoDB, MySQL, PostgreSQL, Microsoft SQL Server (MSSQL)  
+- Redis (Caching & Performance Optimisation)  
+- Apache Kafka (Event Streaming & Real-Time Data Processing)  
 
 ---
 
 ## 📂 Featured DevOps Projects
 
-### Terraform AWS Infrastructure
-Infrastructure as Code project provisioning AWS resources using Terraform including VPC, EC2, and networking components.
+### 🔹 Terraform AWS Infrastructure
+Provisioned scalable AWS infrastructure using Terraform including VPC, EC2, IAM, and networking.
 
-### Kubernetes Deployment
-Containerized application deployed on Kubernetes with automated scaling and service exposure.
+### 🔹 Kubernetes Deployment
+Deployed containerised applications with auto-scaling, rolling updates, and service exposure.
 
-### CI/CD Pipeline
-Automated pipeline that builds, tests, and deploys applications using GitHub Actions and Docker.
+### 🔹 CI/CD Pipeline
+Automated build, test, and deployment using GitHub Actions and Docker.
 
-### Monitoring Stack
-Monitoring system using Prometheus and Grafana for infrastructure observability.
+### 🔹 Monitoring & Observability Stack
+Implemented monitoring and logging using Prometheus, Grafana, and ELK Stack.
 
 ---
 
@@ -69,15 +88,20 @@ Monitoring system using Prometheus and Grafana for infrastructure observability.
 
 ## 🎯 DevOps Focus Areas
 
-- Infrastructure as Code
-- CI/CD Automation
-- Cloud-Native Architecture
-- Kubernetes Operations
-- System Reliability Engineering
+- Infrastructure as Code (Terraform)  
+- CI/CD Automation & Pipeline Optimisation  
+- Cloud-Native Architecture  
+- Kubernetes & Container Orchestration  
+- System Reliability Engineering (SRE)  
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOURPROFILE
-- Email: your@email.com
+- LinkedIn: https://linkedin.com/in/YOURPROFILE  
+- GitHub: https://github.com/YOURUSERNAME  
+- Email: your@email.com  
+
+---
+
+⭐ *Focused on building reliable, scalable, and automated cloud systems.*
