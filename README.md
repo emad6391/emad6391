@@ -84,9 +84,9 @@ Implemented a full observability stack using Prometheus, Grafana, and EFK for me
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emad6391&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emad6391&layout=compact)
 
 ---
 
