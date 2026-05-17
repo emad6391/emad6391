@@ -31,6 +31,9 @@ I specialise in **Cloud Infrastructure, CI/CD Automation, Container Orchestratio
 - Certified Kubernetes Administrator (CKA)  
 - AWS Certified Developer – Associate  
 
+### 🎓 Credly Badges
+- [View My Credly Profile](https://www.credly.com/users/YOUR-CREDLY-USERNAME)
+
 ---
 
 ## 🛠 DevOps Tools & Technologies
@@ -82,14 +85,6 @@ Implemented a full observability stack using Prometheus, Grafana, and EFK for me
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emad6391&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emad6391&layout=compact)
-
----
-
 ## 🎯 DevOps Focus Areas
 
 - Infrastructure as Code (Terraform)  
@@ -102,8 +97,7 @@ Implemented a full observability stack using Prometheus, Grafana, and EFK for me
 
 ## 📫 Connect With Me
 
-
-- GitHub: https://github.com/emad6391 
+- GitHub: https://github.com/emad6391  
 - Email: emadnorie@gmail.com  
 
 ---
