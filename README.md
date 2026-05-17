@@ -32,7 +32,7 @@ I specialise in **Cloud Infrastructure, CI/CD Automation, Container Orchestratio
 - AWS Certified Developer – Associate  
 
 ### 🎓 Credly Badges
-- [View My Credly Profile](https://www.credly.com/users/YOUR-CREDLY-USERNAME)
+- [View My Credly Profile](https://www.credly.com/users/emad-alhani/badges#credly)
 
 ---
 
