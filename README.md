@@ -25,7 +25,7 @@ I specialise in **Cloud Infrastructure, CI/CD Automation, Container Orchestratio
 ---
 
 ## 🏆 Certifications
-
+- AWS Certified Security - Specialty
 - HashiCorp Certified: Terraform Associate (004)  
 - AWS Certified DevOps Engineer – Professional  
 - Certified Kubernetes Administrator (CKA)  
@@ -39,7 +39,10 @@ I specialise in **Cloud Infrastructure, CI/CD Automation, Container Orchestratio
 ## 🛠 DevOps Tools & Technologies
 
 ### ☁️ Cloud Platforms
-- AWS  
+- AWS
+- Azure
+- Digitalocean
+- Hetzner 
 
 ### 🧱 Infrastructure as Code
 - Terraform  
@@ -55,7 +58,9 @@ I specialise in **Cloud Infrastructure, CI/CD Automation, Container Orchestratio
 
 ### 📊 Monitoring & Observability
 - Prometheus  
-- Grafana  
+- Grafana
+- Loki
+- Opentelemetry
 - EFK Stack (Elasticsearch, Fluentd, Kibana)  
 
 ### 🗄 Databases & Messaging
@@ -65,7 +70,8 @@ I specialise in **Cloud Infrastructure, CI/CD Automation, Container Orchestratio
 
 ### 🔄 Version Control
 - Git  
-- GitHub  
+- GitHub
+- GitLab 
 
 ---
 
